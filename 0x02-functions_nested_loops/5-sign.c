@@ -1,4 +1,4 @@
-#include "main.h"i
+#include "main.h"
 
 /**
  * print_sign - return 0 letter not lowercase, 1 letter lowercase
@@ -15,7 +15,7 @@ int print_sign(int n)
 	}
 	else if (n == 0)
 	{
-		_putchar ('0');
+		_putchar('0');
 		return (0);
 	}
 	else
